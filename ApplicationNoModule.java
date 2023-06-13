@@ -1,5 +1,3 @@
-package us.ihmc.eva.GuiOnExo;
-
 import java.lang.reflect.InvocationTargetException;
 
 import com.sun.javafx.application.LauncherImpl;
